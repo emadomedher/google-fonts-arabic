@@ -11,17 +11,14 @@ google_fonts_arabic:
       git: git://github.com/emadomedher/google-fonts-arabic.git
       version: ^0.0.5
 ```
-
-      
-In your text widgets, use it like this:
+Import the list of fonts like this:
 
 ```ssh
-  Text(
-      "كيف حالك يا أخ العرب؟",
-      style: new TextStyle(
-        fontFamily: 'Cairo',
-        package: 'google_fonts_arabic',
-        fontSize: 25.0,
-      ),
-    ),
-``` 
+import 'package:google_fonts_arabic/fonts.dart';
+```
+
+Then you can view the available fonts like this through the ArabicFonts clas:
+
+![alt text](http://206.189.25.244/goole_arabic_fonts.png)
+
+Enjoy ^_^
