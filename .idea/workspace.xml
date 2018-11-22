@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="378c9692-1b7e-4cdc-a7e9-95f4db9cf51b" name="Default" comment="Initial Release">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
+    <list default="true" id="378c9692-1b7e-4cdc-a7e9-95f4db9cf51b" name="Default" comment="">
       <change beforePath="" afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" />
       <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Dart_Packages.xml" />
       <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Dart_SDK.xml" />
@@ -10,72 +9,6 @@
       <change beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
       <change beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
       <change beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.metadata" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/CHANGELOG.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/LICENSE" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/README.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/fonts/Amiri/Amiri-Bold.ttf" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/fonts/Amiri/Amiri-BoldItalic.ttf" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/fonts/Amiri/Amiri-Italic.ttf" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/fonts/Amiri/Amiri-Regular.ttf" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/fonts/Aref_Ruqaa/ArefRuqaa-Bold.ttf" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/fonts/Aref_Ruqaa/ArefRuqaa-Regular.ttf" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/fonts/Baloo_Bhaijaan/BalooBhaijaan-Regular.ttf" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/fonts/Cairo/Cairo-Black.ttf" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/fonts/Cairo/Cairo-Bold.ttf" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/fonts/Cairo/Cairo-ExtraLight.ttf" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/fonts/Cairo/Cairo-Light.ttf" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/fonts/Cairo/Cairo-Regular.ttf" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/fonts/Cairo/Cairo-SemiBold.ttf" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/fonts/Changa/Changa-Bold.ttf" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/fonts/Changa/Changa-ExtraBold.ttf" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/fonts/Changa/Changa-ExtraLight.ttf" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/fonts/Changa/Changa-Light.ttf" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/fonts/Changa/Changa-Medium.ttf" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/fonts/Changa/Changa-Regular.ttf" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/fonts/Changa/Changa-SemiBold.ttf" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/fonts/El_Messiri/ElMessiri-Bold.ttf" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/fonts/El_Messiri/ElMessiri-Medium.ttf" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/fonts/El_Messiri/ElMessiri-Regular.ttf" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/fonts/El_Messiri/ElMessiri-SemiBold.ttf" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/fonts/Harmattan/Harmattan-Regular.ttf" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/fonts/Jomhuria/Jomhuria-Regular.ttf" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/fonts/Katibeh/Katibeh-Regular.ttf" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/fonts/Lalezar/Lalezar-Regular.ttf" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/fonts/Lateef/LateefRegOT.ttf" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/fonts/Lemonada/Lemonada-Bold.ttf" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/fonts/Lemonada/Lemonada-Light.ttf" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/fonts/Lemonada/Lemonada-Regular.ttf" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/fonts/Lemonada/Lemonada-SemiBold.ttf" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/fonts/Mada/Mada-Black.ttf" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/fonts/Mada/Mada-Bold.ttf" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/fonts/Mada/Mada-ExtraLight.ttf" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/fonts/Mada/Mada-Light.ttf" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/fonts/Mada/Mada-Medium.ttf" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/fonts/Mada/Mada-Regular.ttf" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/fonts/Mada/Mada-SemiBold.ttf" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/fonts/Markazi_Text/MarkaziText-Regular.ttf" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/fonts/Mirza/Mirza-Bold.ttf" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/fonts/Mirza/Mirza-Medium.ttf" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/fonts/Mirza/Mirza-Regular.ttf" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/fonts/Mirza/Mirza-SemiBold.ttf" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/fonts/Rakkas/Rakkas-Regular.ttf" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/fonts/Reem_Kufi/ReemKufi-Regular.ttf" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/fonts/Scheherazade/Scheherazade-Bold.ttf" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/fonts/Scheherazade/Scheherazade-Regular.ttf" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/fonts/Tajawal/Tajawal-Black.ttf" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/fonts/Tajawal/Tajawal-Bold.ttf" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/fonts/Tajawal/Tajawal-ExtraBold.ttf" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/fonts/Tajawal/Tajawal-ExtraLight.ttf" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/fonts/Tajawal/Tajawal-Light.ttf" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/fonts/Tajawal/Tajawal-Medium.ttf" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/fonts/Tajawal/Tajawal-Regular.ttf" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/google_fonts_arabic.iml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/lib/google_fonts_arabic.dart" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pubspec.lock" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pubspec.yaml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/res/values/strings_en.arb" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/test/google_fonts_arabic_test.dart" />
     </list>
     <ignored path="$PROJECT_DIR$/.dart_tool/" />
     <ignored path="$PROJECT_DIR$/.idea/" />
@@ -317,6 +250,14 @@
       <option name="presentableId" value="Default" />
       <updated>1542870868176</updated>
     </task>
+    <task id="LOCAL-00001" summary="Initial Release">
+      <created>1542877504915</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1542877504915</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
