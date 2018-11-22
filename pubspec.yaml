@@ -53,20 +53,20 @@ flutter:
   # https://flutter.io/custom-fonts/#from-packages
 
   fonts:
-    - family: Amiri:
+    - family: Amiri
       fonts:
         - asset: fonts/Amiri/Amiri-Bold.ttf
         - asset: fonts/Amiri/Amiri-BoldItalic.ttf
         - asset: fonts/Amiri/Amiri-Italic.ttf
         - asset: fonts/Amiri/Amiri-Regular.ttf
-    - family: Aref_Ruqaa:
+    - family: Aref_Ruqaa
       fonts:
         - asset: fonts/Aref_Ruqaa/ArefRuqaa-Bold.ttf
         - asset: fonts/Aref_Ruqaa/ArefRuqaa-Regular.ttf
-    - family: Baloo_Bhaijaan:
+    - family: Baloo_Bhaijaan
       fonts:
         - asset: fonts/Baloo_Bhaijaan/BalooBhaijaan-Regular.ttf
-    - family: Cairo:
+    - family: Cairo
       fonts:
         - asset: fonts/Cairo/Cairo-Black.ttf
         - asset: fonts/Cairo/Cairo-Bold.ttf
@@ -74,7 +74,7 @@ flutter:
         - asset: fonts/Cairo/Cairo-Light.ttf
         - asset: fonts/Cairo/Cairo-Regular.ttf
         - asset: fonts/Cairo/Cairo-SemiBold.ttf
-    - family: Changa:
+    - family: Changa
       fonts:
         - asset: fonts/Changa/Changa-Bold.ttf
         - asset: fonts/Changa/Changa-ExtraBold.ttf
@@ -83,34 +83,34 @@ flutter:
         - asset: fonts/Changa/Changa-Medium.ttf
         - asset: fonts/Changa/Changa-Regular.ttf
         - asset: fonts/Changa/Changa-SemiBold.ttf
-    - family: El_Messiri:
+    - family: El_Messiri
       fonts:
         - asset: fonts/El_Messiri/ElMessiri-Bold.ttf
         - asset: fonts/El_Messiri/ElMessiri-Medium.ttf
         - asset: fonts/El_Messiri/ElMessiri-Regular.ttf
         - asset: fonts/El_Messiri/ElMessiri-SemiBold.ttf
-    - family: Harmattan:
+    - family: Harmattan
       fonts:
         - asset: fonts/Harmattan/Harmattan-Regular.ttf
-    - family: Jomhuria:
+    - family: Jomhuria
       fonts:
         - asset: fonts/Jomhuria/Jomhuria-Regular.ttf
-    - family: Katibeh:
+    - family: Katibeh
       fonts:
         - asset: fonts/Katibeh/Katibeh-Regular.ttf
-    - family: Lalezar:
+    - family: Lalezar
       fonts:
         - asset: fonts/Lalezar/Lalezar-Regular.ttf
-    - family: Lateef:
+    - family: Lateef
       fonts:
         - asset: fonts/Lateef/LateefRegOT.ttf
-    - family: Lemonada:
+    - family: Lemonada
       fonts:
         - asset: fonts/Lemonada/Lemonada-Bold.ttf
         - asset: fonts/Lemonada/Lemonada-Light.ttf
         - asset: fonts/Lemonada/Lemonada-Regular.ttf
         - asset: fonts/Lemonada/Lemonada-SemiBold.ttf
-    - family: Mada:
+    - family: Mada
       fonts:
         - asset: fonts/Mada/Mada-Black.ttf
         - asset: fonts/Mada/Mada-Bold.ttf
@@ -119,26 +119,26 @@ flutter:
         - asset: fonts/Mada/Mada-Medium.ttf
         - asset: fonts/Mada/Mada-Regular.ttf
         - asset: fonts/Mada/Mada-SemiBold.ttf
-    - family: Markazi_Text:
+    - family: Markazi_Text
       fonts:
         - asset: fonts/Markazi_Text/MarkaziText-Regular.ttf
-    - family: Mirza:
+    - family: Mirza
       fonts:
         - asset: fonts/Mirza/Mirza-Bold.ttf
         - asset: fonts/Mirza/Mirza-Medium.ttf
         - asset: fonts/Mirza/Mirza-Regular.ttf
         - asset: fonts/Mirza/Mirza-SemiBold.ttf
-    - family: Rakkas:
+    - family: Rakkas
       fonts:
         - asset: fonts/Rakkas/Rakkas-Regular.ttf
-    - family: Reem_Kufi:
+    - family: Reem_Kufi
       fonts:
         - asset: fonts/Reem_Kufi/ReemKufi-Regular.ttf
-    - family: Scheherazade:
+    - family: Scheherazade
       fonts:
         - asset: fonts/Scheherazade/Scheherazade-Bold.ttf
         - asset: fonts/Scheherazade/Scheherazade-Regular.ttf
-    - family: Tajawal:
+    - family: Tajawal
       fonts:
         - asset: fonts/Tajawal/Tajawal-Black.ttf
         - asset: fonts/Tajawal/Tajawal-Bold.ttf
