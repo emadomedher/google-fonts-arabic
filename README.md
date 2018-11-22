@@ -1,6 +1,6 @@
 # google_fonts_arabic
 
-A new Flutter package.
+Arabic fonts by google right into your flutter application. Courtsey of fonts.google.com
 
 ## Getting Started
 
