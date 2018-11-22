@@ -2,10 +2,82 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="378c9692-1b7e-4cdc-a7e9-95f4db9cf51b" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Flutter_Plugins.xml" afterPath="" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/lib/fonts/Amiri/OFL.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/lib/fonts/Aref_Ruqaa/OFL.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/lib/fonts/Baloo_Bhaijaan/OFL.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/lib/fonts/Cairo/OFL.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/lib/fonts/Changa/OFL.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/lib/fonts/El_Messiri/OFL.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/lib/fonts/Harmattan/OFL.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/lib/fonts/Jomhuria/OFL.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/lib/fonts/Katibeh/OFL.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/lib/fonts/Lalezar/OFL.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/lib/fonts/Lateef/OFL.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/lib/fonts/Lemonada/OFL.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/lib/fonts/Mada/OFL.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/lib/fonts/Markazi_Text/OFL.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/lib/fonts/Mirza/OFL.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/lib/fonts/Rakkas/OFL.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/lib/fonts/Reem_Kufi/OFL.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/lib/fonts/Scheherazade/OFL.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/lib/fonts/Tajawal/OFL.txt" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/LICENSE" afterPath="$PROJECT_DIR$/LICENSE" />
-      <change beforePath="$PROJECT_DIR$/pubspec.yaml" afterPath="$PROJECT_DIR$/pubspec.yaml" />
+      <change beforePath="$PROJECT_DIR$/fonts/Amiri/Amiri-Bold.ttf" afterPath="$PROJECT_DIR$/lib/fonts/Amiri/Amiri-Bold.ttf" />
+      <change beforePath="$PROJECT_DIR$/fonts/Amiri/Amiri-BoldItalic.ttf" afterPath="$PROJECT_DIR$/lib/fonts/Amiri/Amiri-BoldItalic.ttf" />
+      <change beforePath="$PROJECT_DIR$/fonts/Amiri/Amiri-Italic.ttf" afterPath="$PROJECT_DIR$/lib/fonts/Amiri/Amiri-Italic.ttf" />
+      <change beforePath="$PROJECT_DIR$/fonts/Amiri/Amiri-Regular.ttf" afterPath="$PROJECT_DIR$/lib/fonts/Amiri/Amiri-Regular.ttf" />
+      <change beforePath="$PROJECT_DIR$/fonts/Aref_Ruqaa/ArefRuqaa-Bold.ttf" afterPath="$PROJECT_DIR$/lib/fonts/Aref_Ruqaa/ArefRuqaa-Bold.ttf" />
+      <change beforePath="$PROJECT_DIR$/fonts/Aref_Ruqaa/ArefRuqaa-Regular.ttf" afterPath="$PROJECT_DIR$/lib/fonts/Aref_Ruqaa/ArefRuqaa-Regular.ttf" />
+      <change beforePath="$PROJECT_DIR$/fonts/Baloo_Bhaijaan/BalooBhaijaan-Regular.ttf" afterPath="$PROJECT_DIR$/lib/fonts/Baloo_Bhaijaan/BalooBhaijaan-Regular.ttf" />
+      <change beforePath="$PROJECT_DIR$/fonts/Cairo/Cairo-Black.ttf" afterPath="$PROJECT_DIR$/lib/fonts/Cairo/Cairo-Black.ttf" />
+      <change beforePath="$PROJECT_DIR$/fonts/Cairo/Cairo-Bold.ttf" afterPath="$PROJECT_DIR$/lib/fonts/Cairo/Cairo-Bold.ttf" />
+      <change beforePath="$PROJECT_DIR$/fonts/Cairo/Cairo-ExtraLight.ttf" afterPath="$PROJECT_DIR$/lib/fonts/Cairo/Cairo-ExtraLight.ttf" />
+      <change beforePath="$PROJECT_DIR$/fonts/Cairo/Cairo-Light.ttf" afterPath="$PROJECT_DIR$/lib/fonts/Cairo/Cairo-Light.ttf" />
+      <change beforePath="$PROJECT_DIR$/fonts/Cairo/Cairo-Regular.ttf" afterPath="$PROJECT_DIR$/lib/fonts/Cairo/Cairo-Regular.ttf" />
+      <change beforePath="$PROJECT_DIR$/fonts/Cairo/Cairo-SemiBold.ttf" afterPath="$PROJECT_DIR$/lib/fonts/Cairo/Cairo-SemiBold.ttf" />
+      <change beforePath="$PROJECT_DIR$/fonts/Changa/Changa-Bold.ttf" afterPath="$PROJECT_DIR$/lib/fonts/Changa/Changa-Bold.ttf" />
+      <change beforePath="$PROJECT_DIR$/fonts/Changa/Changa-ExtraBold.ttf" afterPath="$PROJECT_DIR$/lib/fonts/Changa/Changa-ExtraBold.ttf" />
+      <change beforePath="$PROJECT_DIR$/fonts/Changa/Changa-ExtraLight.ttf" afterPath="$PROJECT_DIR$/lib/fonts/Changa/Changa-ExtraLight.ttf" />
+      <change beforePath="$PROJECT_DIR$/fonts/Changa/Changa-Light.ttf" afterPath="$PROJECT_DIR$/lib/fonts/Changa/Changa-Light.ttf" />
+      <change beforePath="$PROJECT_DIR$/fonts/Changa/Changa-Medium.ttf" afterPath="$PROJECT_DIR$/lib/fonts/Changa/Changa-Medium.ttf" />
+      <change beforePath="$PROJECT_DIR$/fonts/Changa/Changa-Regular.ttf" afterPath="$PROJECT_DIR$/lib/fonts/Changa/Changa-Regular.ttf" />
+      <change beforePath="$PROJECT_DIR$/fonts/Changa/Changa-SemiBold.ttf" afterPath="$PROJECT_DIR$/lib/fonts/Changa/Changa-SemiBold.ttf" />
+      <change beforePath="$PROJECT_DIR$/fonts/El_Messiri/ElMessiri-Bold.ttf" afterPath="$PROJECT_DIR$/lib/fonts/El_Messiri/ElMessiri-Bold.ttf" />
+      <change beforePath="$PROJECT_DIR$/fonts/El_Messiri/ElMessiri-Medium.ttf" afterPath="$PROJECT_DIR$/lib/fonts/El_Messiri/ElMessiri-Medium.ttf" />
+      <change beforePath="$PROJECT_DIR$/fonts/El_Messiri/ElMessiri-Regular.ttf" afterPath="$PROJECT_DIR$/lib/fonts/El_Messiri/ElMessiri-Regular.ttf" />
+      <change beforePath="$PROJECT_DIR$/fonts/El_Messiri/ElMessiri-SemiBold.ttf" afterPath="$PROJECT_DIR$/lib/fonts/El_Messiri/ElMessiri-SemiBold.ttf" />
+      <change beforePath="$PROJECT_DIR$/fonts/Harmattan/Harmattan-Regular.ttf" afterPath="$PROJECT_DIR$/lib/fonts/Harmattan/Harmattan-Regular.ttf" />
+      <change beforePath="$PROJECT_DIR$/fonts/Jomhuria/Jomhuria-Regular.ttf" afterPath="$PROJECT_DIR$/lib/fonts/Jomhuria/Jomhuria-Regular.ttf" />
+      <change beforePath="$PROJECT_DIR$/fonts/Katibeh/Katibeh-Regular.ttf" afterPath="$PROJECT_DIR$/lib/fonts/Katibeh/Katibeh-Regular.ttf" />
+      <change beforePath="$PROJECT_DIR$/fonts/Lalezar/Lalezar-Regular.ttf" afterPath="$PROJECT_DIR$/lib/fonts/Lalezar/Lalezar-Regular.ttf" />
+      <change beforePath="$PROJECT_DIR$/fonts/Lateef/LateefRegOT.ttf" afterPath="$PROJECT_DIR$/lib/fonts/Lateef/LateefRegOT.ttf" />
+      <change beforePath="$PROJECT_DIR$/fonts/Lemonada/Lemonada-Bold.ttf" afterPath="$PROJECT_DIR$/lib/fonts/Lemonada/Lemonada-Bold.ttf" />
+      <change beforePath="$PROJECT_DIR$/fonts/Lemonada/Lemonada-Light.ttf" afterPath="$PROJECT_DIR$/lib/fonts/Lemonada/Lemonada-Light.ttf" />
+      <change beforePath="$PROJECT_DIR$/fonts/Lemonada/Lemonada-Regular.ttf" afterPath="$PROJECT_DIR$/lib/fonts/Lemonada/Lemonada-Regular.ttf" />
+      <change beforePath="$PROJECT_DIR$/fonts/Lemonada/Lemonada-SemiBold.ttf" afterPath="$PROJECT_DIR$/lib/fonts/Lemonada/Lemonada-SemiBold.ttf" />
+      <change beforePath="$PROJECT_DIR$/fonts/Mada/Mada-Black.ttf" afterPath="$PROJECT_DIR$/lib/fonts/Mada/Mada-Black.ttf" />
+      <change beforePath="$PROJECT_DIR$/fonts/Mada/Mada-Bold.ttf" afterPath="$PROJECT_DIR$/lib/fonts/Mada/Mada-Bold.ttf" />
+      <change beforePath="$PROJECT_DIR$/fonts/Mada/Mada-ExtraLight.ttf" afterPath="$PROJECT_DIR$/lib/fonts/Mada/Mada-ExtraLight.ttf" />
+      <change beforePath="$PROJECT_DIR$/fonts/Mada/Mada-Light.ttf" afterPath="$PROJECT_DIR$/lib/fonts/Mada/Mada-Light.ttf" />
+      <change beforePath="$PROJECT_DIR$/fonts/Mada/Mada-Medium.ttf" afterPath="$PROJECT_DIR$/lib/fonts/Mada/Mada-Medium.ttf" />
+      <change beforePath="$PROJECT_DIR$/fonts/Mada/Mada-Regular.ttf" afterPath="$PROJECT_DIR$/lib/fonts/Mada/Mada-Regular.ttf" />
+      <change beforePath="$PROJECT_DIR$/fonts/Mada/Mada-SemiBold.ttf" afterPath="$PROJECT_DIR$/lib/fonts/Mada/Mada-SemiBold.ttf" />
+      <change beforePath="$PROJECT_DIR$/fonts/Markazi_Text/MarkaziText-Regular.ttf" afterPath="$PROJECT_DIR$/lib/fonts/Markazi_Text/MarkaziText-Regular.ttf" />
+      <change beforePath="$PROJECT_DIR$/fonts/Mirza/Mirza-Bold.ttf" afterPath="$PROJECT_DIR$/lib/fonts/Mirza/Mirza-Bold.ttf" />
+      <change beforePath="$PROJECT_DIR$/fonts/Mirza/Mirza-Medium.ttf" afterPath="$PROJECT_DIR$/lib/fonts/Mirza/Mirza-Medium.ttf" />
+      <change beforePath="$PROJECT_DIR$/fonts/Mirza/Mirza-Regular.ttf" afterPath="$PROJECT_DIR$/lib/fonts/Mirza/Mirza-Regular.ttf" />
+      <change beforePath="$PROJECT_DIR$/fonts/Mirza/Mirza-SemiBold.ttf" afterPath="$PROJECT_DIR$/lib/fonts/Mirza/Mirza-SemiBold.ttf" />
+      <change beforePath="$PROJECT_DIR$/fonts/Rakkas/Rakkas-Regular.ttf" afterPath="$PROJECT_DIR$/lib/fonts/Rakkas/Rakkas-Regular.ttf" />
+      <change beforePath="$PROJECT_DIR$/fonts/Reem_Kufi/ReemKufi-Regular.ttf" afterPath="$PROJECT_DIR$/lib/fonts/Reem_Kufi/ReemKufi-Regular.ttf" />
+      <change beforePath="$PROJECT_DIR$/fonts/Scheherazade/Scheherazade-Bold.ttf" afterPath="$PROJECT_DIR$/lib/fonts/Scheherazade/Scheherazade-Bold.ttf" />
+      <change beforePath="$PROJECT_DIR$/fonts/Scheherazade/Scheherazade-Regular.ttf" afterPath="$PROJECT_DIR$/lib/fonts/Scheherazade/Scheherazade-Regular.ttf" />
+      <change beforePath="$PROJECT_DIR$/fonts/Tajawal/Tajawal-Black.ttf" afterPath="$PROJECT_DIR$/lib/fonts/Tajawal/Tajawal-Black.ttf" />
+      <change beforePath="$PROJECT_DIR$/fonts/Tajawal/Tajawal-Bold.ttf" afterPath="$PROJECT_DIR$/lib/fonts/Tajawal/Tajawal-Bold.ttf" />
+      <change beforePath="$PROJECT_DIR$/fonts/Tajawal/Tajawal-ExtraBold.ttf" afterPath="$PROJECT_DIR$/lib/fonts/Tajawal/Tajawal-ExtraBold.ttf" />
+      <change beforePath="$PROJECT_DIR$/fonts/Tajawal/Tajawal-ExtraLight.ttf" afterPath="$PROJECT_DIR$/lib/fonts/Tajawal/Tajawal-ExtraLight.ttf" />
+      <change beforePath="$PROJECT_DIR$/fonts/Tajawal/Tajawal-Light.ttf" afterPath="$PROJECT_DIR$/lib/fonts/Tajawal/Tajawal-Light.ttf" />
+      <change beforePath="$PROJECT_DIR$/fonts/Tajawal/Tajawal-Medium.ttf" afterPath="$PROJECT_DIR$/lib/fonts/Tajawal/Tajawal-Medium.ttf" />
+      <change beforePath="$PROJECT_DIR$/fonts/Tajawal/Tajawal-Regular.ttf" afterPath="$PROJECT_DIR$/lib/fonts/Tajawal/Tajawal-Regular.ttf" />
     </list>
     <ignored path="$PROJECT_DIR$/.dart_tool/" />
     <ignored path="$PROJECT_DIR$/.idea/" />
@@ -43,8 +115,8 @@
       <file leaf-file-name="pubspec.yaml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/pubspec.yaml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="189">
-              <caret line="140" column="21" lean-forward="true" selection-start-line="140" selection-start-column="21" selection-end-line="140" selection-end-column="21" />
+            <state relative-caret-position="261">
+              <caret line="74" column="46" lean-forward="false" selection-start-line="74" selection-start-column="29" selection-end-line="74" selection-end-column="46" />
               <folding />
             </state>
           </provider>
@@ -73,6 +145,7 @@
     </leaf>
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GradleLocalSettings">
@@ -125,11 +198,6 @@
             <path>
               <item name="google_fonts_arabic" type="b2602c69:ProjectViewProjectNode" />
               <item name="google_fonts_arabic" type="462c0819:PsiDirectoryNode" />
-              <item name="fonts" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="google_fonts_arabic" type="b2602c69:ProjectViewProjectNode" />
-              <item name="google_fonts_arabic" type="462c0819:PsiDirectoryNode" />
               <item name="lib" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -143,6 +211,11 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="dart.analysis.tool.window.force.activate" value="false" />
     <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/lib" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -272,12 +345,18 @@
       <option name="project" value="LOCAL" />
       <updated>1542877510703</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="YAML fixes">
+      <created>1542879870585</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1542879870586</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3287483" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -292,7 +371,7 @@
       <window_info id="Flutter Outline" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2536349" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2536349" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -312,7 +391,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial Release" />
-    <option name="LAST_COMMIT_MESSAGE" value="Initial Release" />
+    <MESSAGE value="YAML fixes" />
+    <option name="LAST_COMMIT_MESSAGE" value="YAML fixes" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -353,8 +433,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/pubspec.yaml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="140" column="21" lean-forward="true" selection-start-line="140" selection-start-column="21" selection-end-line="140" selection-end-column="21" />
+        <state relative-caret-position="261">
+          <caret line="74" column="46" lean-forward="false" selection-start-line="74" selection-start-column="29" selection-end-line="74" selection-end-column="46" />
           <folding />
         </state>
       </provider>
