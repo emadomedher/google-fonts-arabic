@@ -2,22 +2,23 @@ library google_fonts_arabic;
 
 class ArabicFonts {
 
-  final String Amiri = 'Amiri';
-  final String Aref_Ruqaa = 'Aref_Ruqaa';
-  final String Baloo_Bhaijaan = 'Baloo_Bhaijaan';
-  final String Cairo = 'Cairo';
-  final String Changa = 'Changa';
-  final String El_Messiri = 'El_Messiri';
-  final String Harmattan = 'Harmattan';
-  final String Jomhuria = 'Jomhuria';
-  final String Katibeh = 'Katibeh';
-  final String Lalezar = 'Lalezar';
-  final String Lateef = 'Lateef';
-  final String Lemonada = 'Lemonada';
-  final String Mada = 'Mada';
-  final String Markazi_Text = 'Markazi_Text';
-  final String Mirza = 'Mirza';
-  final String Rakkas = 'Rakkas';
-  final String Reem_Kufi = 'Reem_Kufi';
-  final String Scheherazade = 'Scheherazade';
+  static String Amiri = 'Amiri';
+  static String Aref_Ruqaa = 'Aref_Ruqaa';
+  static String Baloo_Bhaijaan = 'Baloo_Bhaijaan';
+  static String Cairo = 'Cairo';
+  static String Changa = 'Changa';
+  static String El_Messiri = 'El_Messiri';
+  static String Harmattan = 'Harmattan';
+  static String Jomhuria = 'Jomhuria';
+  static String Katibeh = 'Katibeh';
+  static String Lalezar = 'Lalezar';
+  static String Lateef = 'Lateef';
+  static String Lemonada = 'Lemonada';
+  static String Mada = 'Mada';
+  static String Markazi_Text = 'Markazi_Text';
+  static String Mirza = 'Mirza';
+  static String Rakkas = 'Rakkas';
+  static String Reem_Kufi = 'Reem_Kufi';
+  static String Scheherazade = 'Scheherazade';
+
 }
