@@ -1,6 +1,6 @@
 name: google_fonts_arabic
 description: Arabic fonts by google right into your flutter application.
-version: 0.0.2
+version: 0.0.3
 author: Emad O. Medher
 homepage: emad@medher.info
 
@@ -55,95 +55,95 @@ flutter:
   fonts:
     - family: Amiri
       fonts:
-        - asset: fonts/Amiri/Amiri-Bold.ttf
-        - asset: fonts/Amiri/Amiri-BoldItalic.ttf
-        - asset: fonts/Amiri/Amiri-Italic.ttf
-        - asset: fonts/Amiri/Amiri-Regular.ttf
+        - asset: lib/fonts/Amiri/Amiri-Bold.ttf
+        - asset: lib/fonts/Amiri/Amiri-BoldItalic.ttf
+        - asset: lib/fonts/Amiri/Amiri-Italic.ttf
+        - asset: lib/fonts/Amiri/Amiri-Regular.ttf
     - family: Aref_Ruqaa
       fonts:
-        - asset: fonts/Aref_Ruqaa/ArefRuqaa-Bold.ttf
-        - asset: fonts/Aref_Ruqaa/ArefRuqaa-Regular.ttf
+        - asset: lib/fonts/Aref_Ruqaa/ArefRuqaa-Bold.ttf
+        - asset: lib/fonts/Aref_Ruqaa/ArefRuqaa-Regular.ttf
     - family: Baloo_Bhaijaan
       fonts:
-        - asset: fonts/Baloo_Bhaijaan/BalooBhaijaan-Regular.ttf
+        - asset: lib/fonts/Baloo_Bhaijaan/BalooBhaijaan-Regular.ttf
     - family: Cairo
       fonts:
-        - asset: fonts/Cairo/Cairo-Black.ttf
-        - asset: fonts/Cairo/Cairo-Bold.ttf
-        - asset: fonts/Cairo/Cairo-ExtraLight.ttf
-        - asset: fonts/Cairo/Cairo-Light.ttf
-        - asset: fonts/Cairo/Cairo-Regular.ttf
-        - asset: fonts/Cairo/Cairo-SemiBold.ttf
+        - asset: lib/fonts/Cairo/Cairo-Black.ttf
+        - asset: lib/fonts/Cairo/Cairo-Bold.ttf
+        - asset: lib/fonts/Cairo/Cairo-ExtraLight.ttf
+        - asset: lib/fonts/Cairo/Cairo-Light.ttf
+        - asset: lib/fonts/Cairo/Cairo-Regular.ttf
+        - asset: lib/fonts/Cairo/Cairo-SemiBold.ttf
     - family: Changa
       fonts:
-        - asset: fonts/Changa/Changa-Bold.ttf
-        - asset: fonts/Changa/Changa-ExtraBold.ttf
-        - asset: fonts/Changa/Changa-ExtraLight.ttf
-        - asset: fonts/Changa/Changa-Light.ttf
-        - asset: fonts/Changa/Changa-Medium.ttf
-        - asset: fonts/Changa/Changa-Regular.ttf
-        - asset: fonts/Changa/Changa-SemiBold.ttf
+        - asset: lib/fonts/Changa/Changa-Bold.ttf
+        - asset: lib/fonts/Changa/Changa-ExtraBold.ttf
+        - asset: lib/fonts/Changa/Changa-ExtraLight.ttf
+        - asset: lib/fonts/Changa/Changa-Light.ttf
+        - asset: lib/fonts/Changa/Changa-Medium.ttf
+        - asset: lib/fonts/Changa/Changa-Regular.ttf
+        - asset: lib/fonts/Changa/Changa-SemiBold.ttf
     - family: El_Messiri
       fonts:
-        - asset: fonts/El_Messiri/ElMessiri-Bold.ttf
-        - asset: fonts/El_Messiri/ElMessiri-Medium.ttf
-        - asset: fonts/El_Messiri/ElMessiri-Regular.ttf
-        - asset: fonts/El_Messiri/ElMessiri-SemiBold.ttf
+        - asset: lib/fonts/El_Messiri/ElMessiri-Bold.ttf
+        - asset: lib/fonts/El_Messiri/ElMessiri-Medium.ttf
+        - asset: lib/fonts/El_Messiri/ElMessiri-Regular.ttf
+        - asset: lib/fonts/El_Messiri/ElMessiri-SemiBold.ttf
     - family: Harmattan
       fonts:
-        - asset: fonts/Harmattan/Harmattan-Regular.ttf
+        - asset: lib/fonts/Harmattan/Harmattan-Regular.ttf
     - family: Jomhuria
       fonts:
-        - asset: fonts/Jomhuria/Jomhuria-Regular.ttf
+        - asset: lib/fonts/Jomhuria/Jomhuria-Regular.ttf
     - family: Katibeh
       fonts:
-        - asset: fonts/Katibeh/Katibeh-Regular.ttf
+        - asset: lib/fonts/Katibeh/Katibeh-Regular.ttf
     - family: Lalezar
       fonts:
-        - asset: fonts/Lalezar/Lalezar-Regular.ttf
+        - asset: lib/fonts/Lalezar/Lalezar-Regular.ttf
     - family: Lateef
       fonts:
-        - asset: fonts/Lateef/LateefRegOT.ttf
+        - asset: lib/fonts/Lateef/LateefRegOT.ttf
     - family: Lemonada
       fonts:
-        - asset: fonts/Lemonada/Lemonada-Bold.ttf
-        - asset: fonts/Lemonada/Lemonada-Light.ttf
-        - asset: fonts/Lemonada/Lemonada-Regular.ttf
-        - asset: fonts/Lemonada/Lemonada-SemiBold.ttf
+        - asset: lib/fonts/Lemonada/Lemonada-Bold.ttf
+        - asset: lib/fonts/Lemonada/Lemonada-Light.ttf
+        - asset: lib/fonts/Lemonada/Lemonada-Regular.ttf
+        - asset: lib/fonts/Lemonada/Lemonada-SemiBold.ttf
     - family: Mada
       fonts:
-        - asset: fonts/Mada/Mada-Black.ttf
-        - asset: fonts/Mada/Mada-Bold.ttf
-        - asset: fonts/Mada/Mada-ExtraLight.ttf
-        - asset: fonts/Mada/Mada-Light.ttf
-        - asset: fonts/Mada/Mada-Medium.ttf
-        - asset: fonts/Mada/Mada-Regular.ttf
-        - asset: fonts/Mada/Mada-SemiBold.ttf
+        - asset: lib/fonts/Mada/Mada-Black.ttf
+        - asset: lib/fonts/Mada/Mada-Bold.ttf
+        - asset: lib/fonts/Mada/Mada-ExtraLight.ttf
+        - asset: lib/fonts/Mada/Mada-Light.ttf
+        - asset: lib/fonts/Mada/Mada-Medium.ttf
+        - asset: lib/fonts/Mada/Mada-Regular.ttf
+        - asset: lib/fonts/Mada/Mada-SemiBold.ttf
     - family: Markazi_Text
       fonts:
-        - asset: fonts/Markazi_Text/MarkaziText-Regular.ttf
+        - asset: lib/fonts/Markazi_Text/MarkaziText-Regular.ttf
     - family: Mirza
       fonts:
-        - asset: fonts/Mirza/Mirza-Bold.ttf
-        - asset: fonts/Mirza/Mirza-Medium.ttf
-        - asset: fonts/Mirza/Mirza-Regular.ttf
-        - asset: fonts/Mirza/Mirza-SemiBold.ttf
+        - asset: lib/fonts/Mirza/Mirza-Bold.ttf
+        - asset: lib/fonts/Mirza/Mirza-Medium.ttf
+        - asset: lib/fonts/Mirza/Mirza-Regular.ttf
+        - asset: lib/fonts/Mirza/Mirza-SemiBold.ttf
     - family: Rakkas
       fonts:
-        - asset: fonts/Rakkas/Rakkas-Regular.ttf
+        - asset: lib/fonts/Rakkas/Rakkas-Regular.ttf
     - family: Reem_Kufi
       fonts:
-        - asset: fonts/Reem_Kufi/ReemKufi-Regular.ttf
+        - asset: lib/fonts/Reem_Kufi/ReemKufi-Regular.ttf
     - family: Scheherazade
       fonts:
-        - asset: fonts/Scheherazade/Scheherazade-Bold.ttf
-        - asset: fonts/Scheherazade/Scheherazade-Regular.ttf
+        - asset: lib/fonts/Scheherazade/Scheherazade-Bold.ttf
+        - asset: lib/fonts/Scheherazade/Scheherazade-Regular.ttf
     - family: Tajawal
       fonts:
-        - asset: fonts/Tajawal/Tajawal-Black.ttf
-        - asset: fonts/Tajawal/Tajawal-Bold.ttf
-        - asset: fonts/Tajawal/Tajawal-ExtraBold.ttf
-        - asset: fonts/Tajawal/Tajawal-ExtraLight.ttf
-        - asset: fonts/Tajawal/Tajawal-Light.ttf
-        - asset: fonts/Tajawal/Tajawal-Medium.ttf
+        - asset: lib/fonts/Tajawal/Tajawal-Black.ttf
+        - asset: lib/fonts/Tajawal/Tajawal-Bold.ttf
+        - asset: lib/fonts/Tajawal/Tajawal-ExtraBold.ttf
+        - asset: lib/fonts/Tajawal/Tajawal-ExtraLight.ttf
+        - asset: lib/fonts/Tajawal/Tajawal-Light.ttf
+        - asset: lib/fonts/Tajawal/Tajawal-Medium.ttf
 
