@@ -25,5 +25,3 @@ In your text widgets, use it like this:
       ),
     ),
 ``` 
-
-# google-fonts-arabic
