@@ -1,6 +1,6 @@
 name: google_fonts_arabic
 description: Arabic fonts by google right into your flutter application.
-version: 0.0.4
+version: 0.0.5
 author: Emad O. Medher
 homepage: emad@medher.info
 
@@ -55,13 +55,10 @@ flutter:
   fonts:
     - family: Amiri
       fonts:
-        - asset: lib/fonts/Amiri/Amiri-Bold.ttf
-          style: bold
-        - asset: lib/fonts/Amiri/Amiri-BoldItalic.ttf
-          style: BoldItalic
-        - asset: lib/fonts/Amiri/Amiri-Italic.ttf
-          style: Italic
         - asset: lib/fonts/Amiri/Amiri-Regular.ttf
+        - asset: lib/fonts/Amiri/Amiri-Bold.ttf
+        - asset: lib/fonts/Amiri/Amiri-BoldItalic.ttf
+        - asset: lib/fonts/Amiri/Amiri-Italic.ttf
     - family: Aref_Ruqaa
       fonts:
         - asset: lib/fonts/Aref_Ruqaa/ArefRuqaa-Bold.ttf
