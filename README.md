@@ -21,4 +21,17 @@ Then you can view the available fonts like this through the ArabicFonts clas:
 
 ![alt text](http://206.189.25.244/goole_arabic_fonts.png)
 
+In your text widgets, use it like this:
+
+```ssh
+  Text(
+      "كيف حالك يا أخ العرب؟",
+      style: new TextStyle(
+        fontFamily: ArabicFonts.Cairo,
+        package: 'google_fonts_arabic',
+        fontSize: 25.0,
+      ),
+    ),
+``` 
+
 Enjoy ^_^
