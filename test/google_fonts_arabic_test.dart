@@ -1,4 +1,4 @@
-import 'package:google_fonts_arabic_example/main.dart';
+import 'package:google_fonts_arabic/main.dart';
 
 void main() {
 }
