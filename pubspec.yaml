@@ -1,6 +1,6 @@
 name: google_fonts_arabic
-description: Arabic fonts by google right into your flutter application.
-version: 1.1.1
+description: Arabic fonts by google right into your flutter application. Just import the fonts file and use the constant in example to browse the available fonts. Currently you have to take care of bold, italic and underlines. Even though the styled lines are added already. Please raise an issue if you have any problems.
+version: 1.1.2
 author: "Emad O. Medher <emad@medher.info>"
 homepage: https://emad.medher.info
 
