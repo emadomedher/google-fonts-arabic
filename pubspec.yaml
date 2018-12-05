@@ -1,7 +1,7 @@
 name: google_fonts_arabic
 description: Arabic fonts by google right into your flutter application.
 version: 0.0.12
-author: Emad O. Medher <emad@medher.info>"
+author: "Emad O. Medher <emad@medher.info>"
 homepage: emad.medher.info
 
 environment:
