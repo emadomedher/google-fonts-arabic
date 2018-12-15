@@ -9,6 +9,14 @@
       <excludeFolder url="file://$MODULE_DIR$/.idea" />
       <excludeFolder url="file://$MODULE_DIR$/.pub" />
       <excludeFolder url="file://$MODULE_DIR$/build" />
+      <excludeFolder url="file://$MODULE_DIR$/example/google_fonts_arabic_example/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/example/google_fonts_arabic_example/build" />
+      <excludeFolder url="file://$MODULE_DIR$/example/google_fonts_arabic_example/build/flutter_assets/packages" />
+      <excludeFolder url="file://$MODULE_DIR$/example/google_fonts_arabic_example/build/ios/Debug-iphonesimulator/Runner.app/flutter_assets/packages" />
+      <excludeFolder url="file://$MODULE_DIR$/example/google_fonts_arabic_example/build/ios/iphonesimulator/Runner.app/flutter_assets/packages" />
+      <excludeFolder url="file://$MODULE_DIR$/example/google_fonts_arabic_example/ios/Flutter/flutter_assets/packages" />
+      <excludeFolder url="file://$MODULE_DIR$/example/hijri_datetime/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/example/hijri_datetime/build" />
     </content>
     <orderEntry type="jdk" jdkName="Android API 25 Platform" jdkType="Android SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
